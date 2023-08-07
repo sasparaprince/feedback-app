@@ -2,7 +2,7 @@
   "name": "feedback-app",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://64d0a9cd0641c50007e01107--ornate-blancmange-ff0795.netlify.app/",
+  "proxy": "https://main--ornate-blancmange-ff0795.netlify.app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
